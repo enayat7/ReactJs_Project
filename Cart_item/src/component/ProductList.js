@@ -18,7 +18,6 @@ export default function ProductList(props) {
   ) : (
     <h1>
       No Items are present in the Cart
-      <br /> So, get lost u motherfucker{" "}
     </h1>
   );
 }
